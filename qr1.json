@@ -1,0 +1,7 @@
+{
+  "tags": ["behaviour::audible_trigger", "example::tag1", "example::tag2", "example::tag3", "example::tag4", "example::tag5"],
+  "profile": {
+    "audio_likes": [ "quiet countryside","Colin Hay - Overkill", "Anything by Usher"],
+    "audio_triggers": ["noisy traffic", "Classical Music", "Christmas Songs"]
+  }
+}
